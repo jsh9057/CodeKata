@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/beginner/week1/spring-mvc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/codekata/algorithm" vcs="Git" />
   </component>
 </project>
